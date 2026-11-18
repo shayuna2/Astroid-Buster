@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"bullet","order":1,"path":"objects/bullet/bullet.yy",},
+    {"name":"game","order":3,"path":"objects/game/game.yy",},
+    {"name":"obj_planet","order":10,"path":"objects/obj_planet/obj_planet.yy",},
+    {"name":"rock","order":2,"path":"objects/rock/rock.yy",},
+    {"name":"Script1","order":7,"path":"scripts/Script1/Script1.yy",},
+    {"name":"spr_rock","order":4,"path":"sprites/spr_rock/spr_rock.yy",},
+    {"name":"spr_rocket","order":11,"path":"sprites/spr_rocket/spr_rocket.yy",},
+    {"name":"spr_star","order":6,"path":"sprites/spr_star/spr_star.yy",},
+    {"name":"str_planet","order":8,"path":"sprites/str_planet/str_planet.yy",},
+  ],
+}
